@@ -6,6 +6,6 @@ automataComplejo / sistema diseñado para recibir valores del usuario y determin
 
 automataElevador / sistema diseñado para simular el funcionamiento de un ascensor, recibiendo los datos del piso deseado por el usuario.
 
-Hecho por: David Crisólogo Aburto
-Ingeniería de Software
-Matemáticas Discretas
+Hecho por: David Crisólogo Aburto.
+Ingeniería de Software.
+Matemáticas Discretas.
